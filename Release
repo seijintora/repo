@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: seijin
+Components: main
+Date: Sun, 17 Jan 2021 19:07:47 +0000
+Description: My repo that host all of my tweaks
+Label: seijin's repo
+Origin: seijin's repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 358fd74e15b64d0db8c79f5b97d531d2              617 Packages
+ 66721ed02055bd8e852d8245f6a2f482              477 Packages.bz2
+ 22bc9aa5a181430c9b763947e00c5e3e              447 Packages.gz
+ 9394e87151f1fd4201aa1a7c966ef519              516 Packages.xz
+ 93a668011b047ea036830c1f20cb2201              443 Packages.zst
+ 2a7399868fdf81c277d6250dd7ed5e6a              218 Release
+SHA1:
+ 47e915f012ac9bea0a9181445d2796c4b854ad3b              617 Packages
+ acf2f24321c75a99cee7fdc81ff0b8c482db3132              477 Packages.bz2
+ 19cc902fec9fee8f57d679ccbc787a86343b5847              447 Packages.gz
+ 660fe19b1b23173d41231a74f6e9385a43765427              516 Packages.xz
+ 5d30313593f20dc90aead0103f44c00a9345533e              443 Packages.zst
+ 627ae15c8d9cd9b16d3f7a89d249ae90426f6fa5              218 Release
+SHA256:
+ bdc9eb9341dd9dfee5f912a671e6a0ac23af94e11893a0ffd8824ea350b298a7              617 Packages
+ 4a04015a867e4e6419618db1426d4ca59ac07e8da12209d5e556109578c67453              477 Packages.bz2
+ 3a3f2c065667a669b6d5959934dd7e37c14e2ebf37d5141c6dd8ef236d799f0d              447 Packages.gz
+ 7d267e087f5178fdfda81923dac4ead1a5af7f125df35e9a4d1b7adc5e4bb8c0              516 Packages.xz
+ 63a7a4b882e90c017c3cfb4593a5996ee686e19c8872730144804d0f05d0a993              443 Packages.zst
+ b7859c4ce23e0aa58f3c813246ca313580f43d8d66ace8fca19c8d043376436c              218 Release
+SHA512:
+ fc447de2f27b3f384fc1134a8bca49c8dc1633f74503c3887d61ca02e9a3f6a212122b438be91c6d3fe7a19a5de5c90e14418779b292a883938de7a64986d31e              617 Packages
+ 6fc3d0c90b4c99dcb9d2e273fdffe4b7d6324aeb83b501a5b3a07953305c464bd9a9bc5c7d8dce84768a43d04bc04bed3284b40edbeb6145456e186304c75349              477 Packages.bz2
+ b2169623b412fee205e309d60cfd32f936331a17907ff854ffc92e82f71ff082eedd28f18e4d8fc77f08d705d8c98b4a0dea98b011f7498cdc608c97dcfbb228              447 Packages.gz
+ 786cde9484e677614c8c50d7e25c9768b277dbcc49def33668bfa2a723b43cb1d59f647c7dcca89c2fbb883cc1e8585237bf23f6cddd5c9d3cec26a928441336              516 Packages.xz
+ 97d89a9870b03cec8d2b12179f0560a20756536a67000583c1d12c4d0be75910c19fd149e0f8137f5be64bfb3deed36b764a804e82b860a43a1fe368219c2839              443 Packages.zst
+ 3e0d34a8daffc0d1819855260be0e7f8e6e8f7faeca64bdd83b640974d5c90f47edd4368c773501f6f07ca5c693492b4040b0ff1455d973085e820f4d9c23cfd              218 Release

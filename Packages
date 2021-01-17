@@ -1,0 +1,17 @@
+Package: seijintora.emojispam
+Architecture: iphoneos-arm
+Version: 0.0.1-6+debug
+Section: Tweaks
+Maintainer: Eren Kaplan
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/seijintora.emojispam.deb
+Size: 5964
+MD5sum: 000223d3103cf4bc1ca0be06be06b01e
+SHA1: d2d18b6435799845d0dedc82fcb6e43a9329baba
+SHA256: 71cdb0ef9363970e87f426850d30a8bfe40a7aea45b4132fc1050fcaefc3cabb
+SHA512: 48b816ecd885c88025dce89ce34ad9c01a81b2dc588dbf914a26944f0b932d774e4e42ce14c92e1620728cab3c92dcab68d249e378e3c685041241afe6c537d8
+Description: An awesome MobileSubstrate tweak!
+Name: EmojiSpam
+Author: Eren Kaplan
+
