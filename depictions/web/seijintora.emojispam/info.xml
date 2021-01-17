@@ -1,0 +1,29 @@
+<package>
+	<id>seijintora.emojispam</id>
+	<name>EmojiSpam</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Klavyenizden emoji spamlayın</shortDescription>
+	<descriptionlist>
+		<description>Klavyenizden istediğiniz emojiye basılı tutunca ard arda basmasını sağlar.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
