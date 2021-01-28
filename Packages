@@ -1,3 +1,20 @@
+Package: seijintora.deezerpatch
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: Eren Kaplan
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/seijintora.deezerpatch.deb
+Size: 5644
+MD5sum: 76f10c7170e37bb77bde713f7a058859
+SHA1: 0f81749dfeb597e70ff4c549a9a0a2f7518e863b
+SHA256: 3df5c94b719949262e6c1595a80de72f9c5ef81f7563726e22a0f018080f2eb5
+SHA512: 8a9926eaa8bd295a486d8771b4d23e065c94c1b25c210598ae600d8576cfe2a0594a4517d93507809642bba9ed8e3aa4df9fcc325b874b6a21eb7cd029c69759
+Description: Patch for pirate message
+Name: DeezerPatch
+Author: Eren Kaplan
+
 Package: seijintora.emojispam
 Architecture: iphoneos-arm
 Version: 0.0.1-6+debug
